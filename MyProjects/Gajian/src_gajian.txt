@@ -1,0 +1,3 @@
+"C:\\Users\\Trickytommy\\Documents\\JCreator Pro\\MyProjects\\Gajian\\src\\Gajian.java"
+"C:\\Users\\Trickytommy\\Documents\\JCreator Pro\\MyProjects\\Gajian\\src\\GajianFrame.java"
+"C:\\Users\\Trickytommy\\Documents\\JCreator Pro\\MyProjects\\Gajian\\src\\Gaji\\MakeGui.java"

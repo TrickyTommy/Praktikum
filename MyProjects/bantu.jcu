@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace_user>
+	<active_project>
+		<label>kkk</label>
+	</active_project>
+	<projects>
+		<project>
+			<label>kkk</label>
+			<showfiles>false</showfiles>
+			<folderitem>
+				<path>kkk\classes</path>
+				<dir>classes</dir>
+			</folderitem>
+			<folderitem>
+				<path>kkk\src</path>
+				<dir>src</dir>
+			</folderitem>
+		</project>
+	</projects>
+</workspace_user>

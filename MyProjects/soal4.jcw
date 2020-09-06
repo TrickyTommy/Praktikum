@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>soal4</label>
+		<id>5</id>
+		<version>0</version>
+	</settings>
+	<users>
+		<user>
+			<path>soal4.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>soal4\soal4.jcp</path>
+		</project>
+	</projects>
+</workspace>

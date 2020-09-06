@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>Mod4</label>
+		<id>3</id>
+		<version>0</version>
+	</settings>
+	<users>
+		<user>
+			<path>Mod4.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>Gajian\Gajian.jcp</path>
+		</project>
+	</projects>
+</workspace>

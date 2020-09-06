@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace_user>
+	<active_project>
+		<label>soal4</label>
+	</active_project>
+	<projects>
+		<project>
+			<label>soal4</label>
+			<showfiles>false</showfiles>
+			<folderitem>
+				<path>soal4\classes</path>
+				<dir>classes</dir>
+			</folderitem>
+			<folderitem>
+				<path>soal4\src</path>
+				<dir>src</dir>
+			</folderitem>
+		</project>
+	</projects>
+</workspace_user>

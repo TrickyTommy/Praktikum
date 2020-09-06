@@ -1,0 +1,3 @@
+"C:\\Users\\Trickytommy\\Documents\\JCreator Pro\\MyProjects\\soal4\\src\\soal4.java"
+"C:\\Users\\Trickytommy\\Documents\\JCreator Pro\\MyProjects\\soal4\\src\\log\\login.java"
+"C:\\Users\\Trickytommy\\Documents\\JCreator Pro\\MyProjects\\soal4\\src\\load\\sikek.java"

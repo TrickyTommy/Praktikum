@@ -1,0 +1,6 @@
+"C:\\Users\\Trickytommy\\Documents\\JCreator Pro\\MyProjects\\kkk\\src\\kkk.java"
+"C:\\Users\\Trickytommy\\Documents\\JCreator Pro\\MyProjects\\kkk\\src\\kkkFrame.java"
+"C:\\Users\\Trickytommy\\Documents\\JCreator Pro\\MyProjects\\soal4\\src\\soal4.java"
+"C:\\Users\\Trickytommy\\Documents\\JCreator Pro\\MyProjects\\soal4\\src\\soal4Frame.java"
+"C:\\Users\\Trickytommy\\Documents\\JCreator Pro\\MyProjects\\src\\soal4.java"
+"C:\\Users\\Trickytommy\\Documents\\JCreator Pro\\MyProjects\\src\\soal4Frame.java"

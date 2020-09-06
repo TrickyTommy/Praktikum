@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace_user>
+	<active_project>
+		<label>Modul4</label>
+	</active_project>
+	<projects>
+		<project>
+			<label>Modul4</label>
+			<showfiles>false</showfiles>
+			<folderitem>
+				<path>Modul4\classes</path>
+				<dir>classes</dir>
+			</folderitem>
+			<folderitem>
+				<path>Modul4\src</path>
+				<dir>src</dir>
+			</folderitem>
+			<folderitem>
+				<path>Modul4\src\id</path>
+				<dir>src\id</dir>
+			</folderitem>
+			<folderitem>
+				<path>Modul4\src\id\ivan</path>
+				<dir>src\id\ivan</dir>
+			</folderitem>
+			<folderitem>
+				<path>Modul4\src\ivan</path>
+				<dir>src\ivan</dir>
+			</folderitem>
+		</project>
+	</projects>
+	<open_files>
+		<docitem>
+			<path>Modul4\src\Modul4.java</path>
+			<source>true</source>
+			<index>0</index>
+			<active>true</active>
+		</docitem>
+	</open_files>
+</workspace_user>
